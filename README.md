@@ -430,7 +430,7 @@ bt-nginx-rewrite.conf
 
 可将其中规则复制到宝塔站点伪静态配置中。
 
-### Apache
+### Apache环境
 
 项目已提供：
 
@@ -603,8 +603,8 @@ database/upgrade_ssh_monitor.sql
 - 增加团队空间和子账号
 - 增加更完整的开放平台
 
-## 贡献方式
-
+## 贡献方式(反馈方式）
+  QQ：3149364932
 欢迎基于正规用途提交：
 
 - Bug 修复
